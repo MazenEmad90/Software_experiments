@@ -1,0 +1,97 @@
+/* Counter */
+/* body{
+    text-align: center;
+    margin-top: 10%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color:darkgoldenrod ;
+}
+p{
+    margin-top: -20px;
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(255, 0, 0);
+
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+
+.w{
+    margin-top: 0px;
+    margin-bottom:05px ;
+}
+
+button{
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+    background-color: red;
+    border-radius: 10%;
+    cursor:grab;
+}
+#dcrement-btn{
+    font-size: 25px;
+    font-weight: 900;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    cursor:grab;
+}
+hr{
+    background-color: aliceblue;
+    height: -5000px;
+}
+#save-btn{
+    background-color: green;
+}
+
+
+#save-el{
+    font-size: 30px;
+    margin-top: 2%;
+    color: white;
+} */
+/* calculation */
+
+body{
+    text-align: center;
+    margin-top: 20%;
+}
+span{
+    border-style:solid;
+    border-top: 20px;
+    font-size:30px ;
+    margin: 10px;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    margin-top: 10%;
+    color: white;
+    background-color: green;
+}
+h1{
+    color: goldenrod;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 25px;
+}
+/* #message-el{
+
+} */
+button{
+    font-size: 30px;
+    color: green;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 10px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.l{
+    margin: 100px;
+}
